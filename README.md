@@ -3,7 +3,7 @@
 # 设计文档
 
 
-设计文档和使用手册，请使用密码解密下述文本，密码为祂的生日8位数+音乐妹子Id+大佬头像+我的随机数：
+设计文档和使用手册，请使用密码解密下述文本，即可得到markdown格式的说明。密码为祂的生日8位数+音乐妹子Id+大佬头像+我的随机数：
 
 U2FsdGVkX1+DKgt/RFRhlJlHj0Vzu1qkLLaYbkEb+ElZm2s+OofZoVyRt40O5yye
 n6YpXZ753DVBZ1XwKkUSLAGLSVH0ePUD41QAMQRua1WfbZ73W5JQW+lOQfdpGD00
